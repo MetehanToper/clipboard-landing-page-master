@@ -67,8 +67,9 @@ header{
     width: 220px;
     height: 50px;
     background-color: var(--Strong-Cyan);
-    color: var(--White);
+    color: white;
     font-size: 1rem;
+    font-weight: 400;
 }
 .button-secondary{
     border: 1px solid var(--Light-Blue);
@@ -77,8 +78,9 @@ header{
     width: 220px;
     height: 50px;
     background-color: var(--Light-Blue);
-    color: var(--White);
+    color: white;
     font-size: 1rem;
+    font-weight: 400;
 }
 .article-conteiner{
     display: flex;
